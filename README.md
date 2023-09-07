@@ -1,3 +1,3 @@
 # mk_tet
 
-This code was used in J. Hou, Z. Slepian, R. N. Cahn (2022) https://arxiv.org/abs/2206.03625
+This code was used in J. Hou, Z. Slepian, R. N. Cahn (2022) Measurement of Parity-Odd Modes in the Large-Scale 4-Point Correlation Function of SDSS BOSS DR12 CMASS and LOWZ Galaxies https://arxiv.org/abs/2206.03625
